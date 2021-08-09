@@ -1,4 +1,5 @@
-# claire
+# Claire
+Project aplikasi Vue.js (Toko Online) 
 
 ## Project setup
 ```
